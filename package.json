@@ -1,0 +1,15 @@
+{
+  "name": "fresh_food",
+  "version": "1.0.0",
+  "description": "fresh food v1",
+  "main": "index.js",
+  "author": "DR.Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {}
+}
